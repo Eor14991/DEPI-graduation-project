@@ -143,5 +143,5 @@ The **Power BI dashboard** serves as the main user-facing visualization tool —
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/your-username/smart-radar-traffic-monitoring.git
+git clone https://github.com/Eor14991/smart-radar-traffic-monitoring.git
 cd smart-radar-traffic-monitoring
